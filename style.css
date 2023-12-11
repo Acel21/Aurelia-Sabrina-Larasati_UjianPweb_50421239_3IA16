@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(164, 160, 154);
+    background-position:0%;
+    background-size:auto;
+    font-family:cursive;
+}
+h3{
+    color :rgb(186, 86, 86);
+    font-size: 60px;
+    text-align: center;
+}
+
+*{
+    color: black;
+}
+
+#Update{
+    display: none;
+}
+
+.btn{
+    display: inline-block;
+    background-color: #3a6a64;
+    color: #fff;
+    padding: 10px 20px; 
+    margin: 0 auto;
+    text-decoration: none;
+    border-radius: 5px;   
+    place-items: center;
+}
+
+h2{
+    color :rgb(224, 238, 182);
+    font-size: 40px;
+    text-align: center;
+}
+h4{
+    color :rgb(223, 192, 148);
+    font-size: 20px;
+    text-align: center;
+}
